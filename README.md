@@ -1,1 +1,2 @@
-# sonar_segmentation
+# sonar image segmentation
+
